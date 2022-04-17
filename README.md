@@ -22,4 +22,4 @@ Mint your own NFT on the Rinkeby network.
 
 ## License
 
-Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/NFT-Drop/blob/e45a2fbe1e6bdcd17e37e49a489f01c8efbfa5e9/LICENSE)
+Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/NFT-Drop/blob/e45a2fbe1e6bdcd17e37e49a489f01c8efbfa5e9/LICENSE).
